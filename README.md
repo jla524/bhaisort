@@ -5,15 +5,8 @@
 ## Quickstart Guide
 
 ```sh
-git clone https://github.com/aditya87/bhai-lang.git
-cd bhai-lang
-git checkout aadi-arrays
-npm install
-npm run build
-cd packages/cli
-npm link
-cd ../../..
-bhailang bubblesort.bhai
+./setup.sh
+bhailang bubblesort.bhai  # [10, 23, 84, 99]
 ```
 
 [1]: https://www.youtube.com/watch?v=n8kWyYstCh8
