@@ -1,0 +1,17 @@
+hi bhai
+  bhai ye hai l = [84, 23, 99, 10];
+  bhai ye hai i = 0;
+  jab tak bhai (i < l ka lambai) {
+    bhai ye hai j = i + 1;
+    jab tak bhai (j < l ka lambai) {
+      agar bhai (l[i] > l[j]) {
+        bhai ye hai t = l[i];
+        l[i] = l[j];
+        l[j] = t;
+      }
+      j += 1;
+    }
+    i += 1;
+  }
+  bol bhai l;
+bye bhai

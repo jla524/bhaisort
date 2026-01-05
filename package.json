@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "bhai-lang": "github:aditya87/bhai-lang#aadi-arrays"
+  }
+}
